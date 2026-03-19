@@ -17,3 +17,6 @@ build/
 .mypy_cache/
 htmlcov/
 .coverage
+
+# OMC 상태 파일
+.omc/
